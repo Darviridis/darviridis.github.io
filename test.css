@@ -1,0 +1,4174 @@
+.landing-page-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-landing-page {
+  width: 100%;
+  height: 4376px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-home {
+  gap: 40px;
+  top: 84px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-hero-section {
+  gap: 104px;
+  display: flex;
+  padding: 96px 144px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-frame1 {
+  gap: 32px;
+  width: 657px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-text {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text001 {
+  color: rgba(77, 77, 77, 1);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 76px;
+}
+.landing-page-text002 {
+  color: var(--dl-color-neutral-dgrey);
+}
+.landing-page-text004 {
+  color: var(--dl-color-neutral-grey);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-button {
+  gap: 10px;
+  display: flex;
+  padding: 14px 32px;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: var(--dl-color-brand-primary);
+}
+.landing-page-text006 {
+  color: var(--dl-color-neutral-white);
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.landing-page-illustration {
+  width: 391px;
+  height: 407px;
+}
+.landing-page-clients {
+  gap: 16px;
+  width: 1440px;
+  display: flex;
+  padding: 0 144px;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-clients1 {
+  gap: 8px;
+  width: 1110px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-text008 {
+  color: var(--dl-color-neutral-dgrey);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 44px;
+}
+.landing-page-text010 {
+  color: var(--dl-color-neutral-grey);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 24px;
+}
+.landing-page-clients-logos {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.landing-page-logo {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.landing-page-logo01 {
+  top: 4px;
+  left: 4.00006103515625px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.landing-page-logo02 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.landing-page-logo03 {
+  top: 9.8468017578125px;
+  left: 4px;
+  width: 40px;
+  height: 28px;
+  position: absolute;
+}
+.landing-page-logo04 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.landing-page-logo05 {
+  top: 8.8468017578125px;
+  left: -3px;
+  width: 55px;
+  height: 30px;
+  position: absolute;
+}
+.landing-page-logo06 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.landing-page-logo07 {
+  top: 9.8468017578125px;
+  left: 1px;
+  width: 47px;
+  height: 29px;
+  position: absolute;
+}
+.landing-page-logo08 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.landing-page-logo09 {
+  top: 10.8468017578125px;
+  left: 4px;
+  width: 41px;
+  height: 27px;
+  position: absolute;
+}
+.landing-page-logo10 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.landing-page-logo11 {
+  top: 13.8468017578125px;
+  left: -2px;
+  width: 52px;
+  height: 20px;
+  position: absolute;
+}
+.landing-page-logo12 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.landing-page-logo13 {
+  top: 8.8468017578125px;
+  left: -3px;
+  width: 55px;
+  height: 30px;
+  position: absolute;
+}
+.landing-page-community {
+  gap: 16px;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-community1 {
+  gap: 8px;
+  width: 1440px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-text012 {
+  color: var(--dl-color-neutral-dgrey);
+  width: 542px;
+  height: auto;
+  text-align: center;
+  line-height: 44px;
+}
+.landing-page-text014 {
+  color: var(--dl-color-neutral-grey);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 24px;
+}
+.landing-page-frame4 {
+  gap: 26px;
+  width: 1440px;
+  display: flex;
+  padding: 0 144px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.landing-page-membership-organizatios {
+  gap: 8px;
+  width: 299px;
+  display: flex;
+  padding: 24px 32px;
+  box-shadow: 0px 2px 4px 0px rgba(171, 190, 209, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-white);
+}
+.landing-page-member {
+  gap: 16px;
+  width: 267px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-icon {
+  width: 65.00000762939453px;
+  height: 56px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-rectangle157 {
+  top: 56px;
+  left: 65px;
+  width: 50px;
+  height: 49px;
+  position: absolute;
+  border-radius: 18px 5px 10px;
+}
+.landing-page-icon01 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  position: absolute;
+}
+.landing-page-text016 {
+  color: var(--dl-color-neutral-dgrey);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 36px;
+}
+.landing-page-frame3 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-text018 {
+  color: var(--dl-color-neutral-grey);
+  width: 251px;
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+.landing-page-national-associations {
+  gap: 8px;
+  width: 299px;
+  display: flex;
+  padding: 24px 32px;
+  box-shadow: 0px 2px 4px 0px rgba(171, 190, 209, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-white);
+}
+.landing-page-member1 {
+  gap: 16px;
+  width: 267px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-icon02 {
+  width: 65.00000762939453px;
+  height: 56px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-rectangle1571 {
+  top: 56px;
+  left: 65px;
+  width: 50px;
+  height: 49px;
+  position: absolute;
+  border-radius: 18px 5px 10px;
+}
+.landing-page-icon03 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-group1 {
+  top: 9.000040054321289px;
+  left: 6px;
+  width: 35.57957458496094px;
+  height: 30.21280860900879px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector {
+  top: 7.918184280395508px;
+  left: 20.350675582885742px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector001 {
+  top: 7.918184280395508px;
+  left: 17.972400665283203px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector002 {
+  top: 7.918184280395508px;
+  left: 15.594356536865234px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector003 {
+  top: 11.849769592285156px;
+  left: 20.350675582885742px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector004 {
+  top: 11.849769592285156px;
+  left: 17.972400665283203px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector005 {
+  top: 11.849769592285156px;
+  left: 15.594356536865234px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector006 {
+  top: 15.780662536621094px;
+  left: 20.350675582885742px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector007 {
+  top: 15.780662536621094px;
+  left: 17.972400665283203px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector008 {
+  top: 15.780662536621094px;
+  left: 15.594356536865234px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector009 {
+  top: 19.711091995239258px;
+  left: 20.350675582885742px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector010 {
+  top: 19.711091995239258px;
+  left: 17.972400665283203px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector011 {
+  top: 19.711091995239258px;
+  left: 15.594356536865234px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector012 {
+  top: 23.642677307128906px;
+  left: 20.350675582885742px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector013 {
+  top: 23.642677307128906px;
+  left: 17.972400665283203px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector014 {
+  top: 23.642677307128906px;
+  left: 15.594356536865234px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector015 {
+  top: 0px;
+  left: 0px;
+  width: 36px;
+  height: 30px;
+  position: absolute;
+}
+.landing-page-text020 {
+  color: var(--dl-color-neutral-dgrey);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 36px;
+}
+.landing-page-frame31 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-text022 {
+  color: var(--dl-color-neutral-grey);
+  width: 240px;
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+.landing-page-national-associations1 {
+  gap: 8px;
+  width: 299px;
+  display: flex;
+  padding: 24px 32px;
+  box-shadow: 0px 2px 4px 0px rgba(171, 190, 209, 0.20000000298023224) ;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-white);
+}
+.landing-page-member2 {
+  gap: 16px;
+  width: 267px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-icon04 {
+  width: 65.00000762939453px;
+  height: 56px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-rectangle1572 {
+  top: 56px;
+  left: 65px;
+  width: 50px;
+  height: 49px;
+  position: absolute;
+  border-radius: 18px 5px 10px;
+}
+.landing-page-icon05 {
+  top: 0px;
+  left: 0px;
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-group2 {
+  top: 9.000030517578125px;
+  left: 7.968108177185059px;
+  width: 32.37238693237305px;
+  height: 30.00006103515625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector016 {
+  top: 17.045429229736328px;
+  left: 9.20273208618164px;
+  width: 13px;
+  height: 17px;
+  position: absolute;
+}
+.landing-page-vector017 {
+  top: 30.00006103515625px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.landing-page-vector018 {
+  top: 29.999610900878906px;
+  left: 17.029685974121094px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.landing-page-text024 {
+  color: var(--dl-color-neutral-dgrey);
+  width: 231px;
+  height: auto;
+  text-align: center;
+  line-height: 36px;
+}
+.landing-page-frame32 {
+  gap: 8px;
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-text026 {
+  color: var(--dl-color-neutral-grey);
+  width: 251px;
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+.landing-page-body {
+  gap: 48px;
+  top: 1411px;
+  left: 1px;
+  width: 1440px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}
+.landing-page-unlock {
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-unlock1 {
+  gap: 96px;
+  width: 1440px;
+  display: flex;
+  padding: 0 144px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.landing-page-frame35 {
+  width: 442px;
+  height: 433px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-mobileloginrafiki {
+  top: 52px;
+  left: 0px;
+  width: 441.5328674316406px;
+  height: 328.9949645996094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-backgroundcomplete {
+  top: 0px;
+  left: 0px;
+  width: 441.5328674316406px;
+  height: 310.87445068359375px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector019 {
+  top: 289.11572265625px;
+  left: 0px;
+  width: 442px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector020 {
+  top: 302.47650146484375px;
+  left: 80.97712707519531px;
+  width: 29px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector021 {
+  top: 302.47650146484375px;
+  left: 54.77656555175781px;
+  width: 17px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector022 {
+  top: 305.7261657714844px;
+  left: 168.98345947265625px;
+  width: 17px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector023 {
+  top: 310.6536865234375px;
+  left: 236.14944458007812px;
+  width: 38px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector024 {
+  top: 310.6536865234375px;
+  left: 222.70034790039062px;
+  width: 6px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector025 {
+  top: 305.7261657714844px;
+  left: 317.6122741699219px;
+  width: 83px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector026 {
+  top: 0px;
+  left: 33.741939544677734px;
+  width: 181px;
+  height: 250px;
+  position: absolute;
+}
+.landing-page-vector027 {
+  top: 0px;
+  left: 224.740234375px;
+  width: 181px;
+  height: 250px;
+  position: absolute;
+}
+.landing-page-vector028 {
+  top: 213.6842498779297px;
+  left: 216.71316528320312px;
+  width: 19px;
+  height: 77px;
+  position: absolute;
+}
+.landing-page-vector029 {
+  top: 280.2232360839844px;
+  left: 228.57273864746094px;
+  width: 8px;
+  height: 10px;
+  position: absolute;
+}
+.landing-page-vector030 {
+  top: 213.6842498779297px;
+  left: 131.62095642089844px;
+  width: 19px;
+  height: 77px;
+  position: absolute;
+}
+.landing-page-vector031 {
+  top: 213.6842498779297px;
+  left: 147.8251953125px;
+  width: 88px;
+  height: 71px;
+  position: absolute;
+}
+.landing-page-vector032 {
+  top: 216.81028747558594px;
+  left: 150.68634033203125px;
+  width: 83px;
+  height: 19px;
+  position: absolute;
+}
+.landing-page-vector033 {
+  top: 280.2232360839844px;
+  left: 147.8251953125px;
+  width: 8px;
+  height: 10px;
+  position: absolute;
+}
+.landing-page-vector034 {
+  top: 224.537109375px;
+  left: 190.02691650390625px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector035 {
+  top: 239.30197143554688px;
+  left: 150.68634033203125px;
+  width: 83px;
+  height: 19px;
+  position: absolute;
+}
+.landing-page-vector036 {
+  top: 247.07296752929688px;
+  left: 190.02691650390625px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector037 {
+  top: 261.78485107421875px;
+  left: 150.68634033203125px;
+  width: 83px;
+  height: 19px;
+  position: absolute;
+}
+.landing-page-vector038 {
+  top: 269.51165771484375px;
+  left: 190.0269012451172px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector039 {
+  top: 168.94813537597656px;
+  left: 119.76136779785156px;
+  width: 19px;
+  height: 122px;
+  position: absolute;
+}
+.landing-page-vector040 {
+  top: 280.2232360839844px;
+  left: 131.62977600097656px;
+  width: 8px;
+  height: 10px;
+  position: absolute;
+}
+.landing-page-vector041 {
+  top: 168.94813537597656px;
+  left: 47.19103240966797px;
+  width: 19px;
+  height: 122px;
+  position: absolute;
+}
+.landing-page-vector042 {
+  top: 168.94813537597656px;
+  left: 63.38645553588867px;
+  width: 76px;
+  height: 115px;
+  position: absolute;
+}
+.landing-page-vector043 {
+  top: 171.80044555664062px;
+  left: 66.22992706298828px;
+  width: 70px;
+  height: 27px;
+  position: absolute;
+}
+.landing-page-vector044 {
+  top: 201.0917205810547px;
+  left: 102.52393341064453px;
+  width: 34px;
+  height: 70px;
+  position: absolute;
+}
+.landing-page-vector045 {
+  top: 201.0917205810547px;
+  left: 66.22992706298828px;
+  width: 34px;
+  height: 70px;
+  position: absolute;
+}
+.landing-page-vector046 {
+  top: 280.2232360839844px;
+  left: 63.38645553588867px;
+  width: 8px;
+  height: 10px;
+  position: absolute;
+}
+.landing-page-vector047 {
+  top: 183.31561279296875px;
+  left: 99.32721710205078px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector048 {
+  top: 232.52000427246094px;
+  left: 106.32109832763672px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector049 {
+  top: 232.52003479003906px;
+  left: 92.3421630859375px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector050 {
+  top: 134.99424743652344px;
+  left: 81.2442855834961px;
+  width: 10px;
+  height: 34px;
+  position: absolute;
+}
+.landing-page-vector051 {
+  top: 152.90283203125px;
+  left: 58.988792419433594px;
+  width: 27px;
+  height: 16px;
+  position: absolute;
+}
+.landing-page-vector052 {
+  top: 202.45166015625px;
+  left: 172.7894744873047px;
+  width: 38px;
+  height: 11px;
+  position: absolute;
+}
+.landing-page-vector053 {
+  top: 84.91875457763672px;
+  left: 321.4276123046875px;
+  width: 64px;
+  height: 192px;
+  position: absolute;
+}
+.landing-page-vector054 {
+  top: 263.5862731933594px;
+  left: 334.4434814453125px;
+  width: 32px;
+  height: 27px;
+  position: absolute;
+}
+.landing-page-vector055 {
+  top: 257.59027099609375px;
+  left: 331.3527526855469px;
+  width: 38px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-vector056 {
+  top: 18.102848052978516px;
+  left: 60.23391342163086px;
+  width: 49px;
+  height: 54px;
+  position: absolute;
+}
+.landing-page-vector057 {
+  top: 18.102848052978516px;
+  left: 63.960453033447266px;
+  width: 51px;
+  height: 54px;
+  position: absolute;
+}
+.landing-page-vector058 {
+  top: 22.38571548461914px;
+  left: 110.80709075927734px;
+  width: 46px;
+  height: 43px;
+  position: absolute;
+}
+.landing-page-vector059 {
+  top: 33.47701644897461px;
+  left: 100.48405456542969px;
+  width: 24px;
+  height: 22px;
+  position: absolute;
+}
+.landing-page-vector060 {
+  top: 24.43442726135254px;
+  left: 316.119873046875px;
+  width: 46px;
+  height: 50px;
+  position: absolute;
+}
+.landing-page-vector061 {
+  top: 24.43442726135254px;
+  left: 319.59033203125px;
+  width: 47px;
+  height: 50px;
+  position: absolute;
+}
+.landing-page-vector062 {
+  top: 28.417055130004883px;
+  left: 363.1077880859375px;
+  width: 43px;
+  height: 40px;
+  position: absolute;
+}
+.landing-page-vector063 {
+  top: 37.3448486328125px;
+  left: 330.99951171875px;
+  width: 25px;
+  height: 25px;
+  position: absolute;
+}
+.landing-page-vector064 {
+  top: 50.511356353759766px;
+  left: 124.43279266357422px;
+  width: 37px;
+  height: 40px;
+  position: absolute;
+}
+.landing-page-vector065 {
+  top: 50.511356353759766px;
+  left: 127.19678497314453px;
+  width: 38px;
+  height: 40px;
+  position: absolute;
+}
+.landing-page-vector066 {
+  top: 53.690391540527344px;
+  left: 161.94541931152344px;
+  width: 34px;
+  height: 32px;
+  position: absolute;
+}
+.landing-page-vector067 {
+  top: 62.079524993896484px;
+  left: 137.52865600585938px;
+  width: 17px;
+  height: 15px;
+  position: absolute;
+}
+.landing-page-backgroundsimple {
+  top: 23.247861862182617px;
+  left: 93.36146545410156px;
+  width: 258.6739196777344px;
+  height: 199.3529510498047px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector068 {
+  top: 0px;
+  left: 0px;
+  width: 259px;
+  height: 199px;
+  position: absolute;
+}
+.landing-page-vector069 {
+  top: 0px;
+  left: 0px;
+  width: 259px;
+  height: 199px;
+  opacity: 0.90;
+  position: absolute;
+}
+.landing-page-shadow {
+  top: 309.00238037109375px;
+  left: 49.54882049560547px;
+  width: 342.43524169921875px;
+  height: 19.99259376525879px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector070 {
+  top: 0px;
+  left: 0px;
+  width: 342px;
+  height: 20px;
+  position: absolute;
+}
+.landing-page-character2 {
+  top: 37.563987731933594px;
+  left: 253.58999633789062px;
+  width: 102.06487274169922px;
+  height: 283.951416015625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector071 {
+  top: 54.65456008911133px;
+  left: 9.962276458740234px;
+  width: 45px;
+  height: 34px;
+  position: absolute;
+}
+.landing-page-vector072 {
+  top: 48.51310348510742px;
+  left: 38.70476150512695px;
+  width: 19px;
+  height: 23px;
+  position: absolute;
+}
+.landing-page-vector073 {
+  top: 48.51310348510742px;
+  left: 38.70476150512695px;
+  width: 19px;
+  height: 23px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector074 {
+  top: 56.19992446899414px;
+  left: 43.30552673339844px;
+  width: 5px;
+  height: 14px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector075 {
+  top: 46.788516998291016px;
+  left: 44.474361419677734px;
+  width: 43px;
+  height: 60px;
+  position: absolute;
+}
+.landing-page-vector076 {
+  top: 46.788516998291016px;
+  left: 44.474361419677734px;
+  width: 43px;
+  height: 60px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector077 {
+  top: 280.51629638671875px;
+  left: 41.636383056640625px;
+  width: 60px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector078 {
+  top: 259.61199951171875px;
+  left: 59.06666564941406px;
+  width: 7px;
+  height: 15px;
+  position: absolute;
+}
+.landing-page-vector079 {
+  top: 260.04681396484375px;
+  left: 84.4122543334961px;
+  width: 9px;
+  height: 15px;
+  position: absolute;
+}
+.landing-page-vector080 {
+  top: 274.6703796386719px;
+  left: 75.68184661865234px;
+  width: 20px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-vector081 {
+  top: 270.3041687011719px;
+  left: 50.190086364746094px;
+  width: 25px;
+  height: 12px;
+  position: absolute;
+}
+.landing-page-vector082 {
+  top: 79.88375091552734px;
+  left: 2.622708797454834px;
+  width: 10px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-vector083 {
+  top: 79.67181396484375px;
+  left: 0.0000026003699531429447px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-vector084 {
+  top: 260.804931640625px;
+  left: 59.91227340698242px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-vector085 {
+  top: 260.04681396484375px;
+  left: 84.4122543334961px;
+  width: 8px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-vector086 {
+  top: 69.75498962402344px;
+  left: 44.9921875px;
+  width: 38px;
+  height: 31px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector087 {
+  top: 59.333168029785156px;
+  left: 52.74550247192383px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-vector088 {
+  top: 67.51200866699219px;
+  left: 58.18518829345703px;
+  width: 7px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-vector089 {
+  top: 29.99053955078125px;
+  left: 59.04119873046875px;
+  width: 16px;
+  height: 22px;
+  position: absolute;
+}
+.landing-page-vector090 {
+  top: 33.222564697265625px;
+  left: 65.099609375px;
+  width: 6px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-vector091 {
+  top: 25.476322174072266px;
+  left: 54.76231384277344px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.landing-page-vector092 {
+  top: 14.09479808807373px;
+  left: 55.70738983154297px;
+  width: 7px;
+  height: 17px;
+  position: absolute;
+}
+.landing-page-vector093 {
+  top: 12.965876579284668px;
+  left: 56.668338775634766px;
+  width: 19px;
+  height: 26px;
+  position: absolute;
+}
+.landing-page-vector094 {
+  top: -0.000001369620576952002px;
+  left: 51.61817169189453px;
+  width: 31px;
+  height: 31px;
+  position: absolute;
+}
+.landing-page-vector095 {
+  top: 25.476322174072266px;
+  left: 71.86327362060547px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.landing-page-vector096 {
+  top: 106.32274627685547px;
+  left: 39.676841735839844px;
+  width: 31px;
+  height: 161px;
+  position: absolute;
+}
+.landing-page-vector097 {
+  top: 118.85121154785156px;
+  left: 58.51057052612305px;
+  width: 7px;
+  height: 43px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector098 {
+  top: 258.9959716796875px;
+  left: 57.15201950073242px;
+  width: 14px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-vector099 {
+  top: 106.32274627685547px;
+  left: 58.74152374267578px;
+  width: 36px;
+  height: 160px;
+  position: absolute;
+}
+.landing-page-vector100 {
+  top: 262.7754821777344px;
+  left: 81.0919189453125px;
+  width: 14px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector101 {
+  top: 113.49323272705078px;
+  left: 78.2922134399414px;
+  width: 12px;
+  height: 146px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector102 {
+  top: 23.53533172607422px;
+  left: 64.47819519042969px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector103 {
+  top: 23.53533172607422px;
+  left: 58.4129638671875px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector104 {
+  top: 24.78045082092285px;
+  left: 58.76801681518555px;
+  width: 3px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector105 {
+  top: 30.0727481842041px;
+  left: 61.602378845214844px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector106 {
+  top: 21.848175048828125px;
+  left: 63.86461639404297px;
+  width: 3px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector107 {
+  top: 19.49871826171875px;
+  left: 57.1298942565918px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector108 {
+  top: 54.760536193847656px;
+  left: 49.130828857421875px;
+  width: 41px;
+  height: 41px;
+  position: absolute;
+}
+.landing-page-vector109 {
+  top: 274.1515197753906px;
+  left: 82.60216522216797px;
+  width: 3px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector110 {
+  top: 272.60552978515625px;
+  left: 84.05805969238281px;
+  width: 2px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector111 {
+  top: 273.3148498535156px;
+  left: 58.60486602783203px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector112 {
+  top: 271.45233154296875px;
+  left: 59.92483139038086px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector113 {
+  top: 89.92420959472656px;
+  left: 39.71147155761719px;
+  width: 12px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-vector114 {
+  top: 89.33255767822266px;
+  left: 48.665740966796875px;
+  width: 4px;
+  height: 6px;
+  position: absolute;
+}
+.landing-page-vector115 {
+  top: 90.3141860961914px;
+  left: 48.69422912597656px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector116 {
+  top: 94.16292572021484px;
+  left: 34.55434036254883px;
+  width: 9px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector117 {
+  top: 258.9959716796875px;
+  left: 57.15201950073242px;
+  width: 14px;
+  height: 9px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector118 {
+  top: 262.7754821777344px;
+  left: 81.0919189453125px;
+  width: 14px;
+  height: 4px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector119 {
+  top: 48.381282806396484px;
+  left: 72.78226470947266px;
+  width: 21px;
+  height: 25px;
+  position: absolute;
+}
+.landing-page-vector120 {
+  top: 48.381282806396484px;
+  left: 72.78226470947266px;
+  width: 21px;
+  height: 25px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-screen {
+  top: 13.749333381652832px;
+  left: 167.41160583496094px;
+  width: 122.78773498535156px;
+  height: 227.02735900878906px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector121 {
+  top: -0.0000031634876904718112px;
+  left: 43.19074630737305px;
+  width: 6px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector122 {
+  top: 51.15518569946289px;
+  left: 121.19617462158203px;
+  width: 15px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector123 {
+  top: 4.079762935638428px;
+  left: 6.225614070892334px;
+  width: 114px;
+  height: 217px;
+  position: absolute;
+}
+.landing-page-vector124 {
+  top: 7.064522743225098px;
+  left: 3.1172187328338623px;
+  width: 114px;
+  height: 217px;
+  opacity: 0.56;
+  position: absolute;
+}
+.landing-page-vector125 {
+  top: 10.040456771850586px;
+  left: -0.0000022026383703632746px;
+  width: 114px;
+  height: 217px;
+  opacity: 0.07;
+  position: absolute;
+}
+.landing-page-vector126 {
+  top: 104.6786117553711px;
+  left: 12.36291790008545px;
+  width: 90px;
+  height: 17px;
+  position: absolute;
+}
+.landing-page-vector127 {
+  top: 92.56294250488281px;
+  left: 13.316630363464355px;
+  width: 49px;
+  height: 7px;
+  position: absolute;
+}
+.landing-page-vector128 {
+  top: 149.48536682128906px;
+  left: 10.358355522155762px;
+  width: 90px;
+  height: 17px;
+  position: absolute;
+}
+.landing-page-vector129 {
+  top: 188.50804138183594px;
+  left: 23.030353546142578px;
+  width: 61px;
+  height: 20px;
+  opacity: 0.47;
+  position: absolute;
+}
+.landing-page-vector130 {
+  top: 191.40504455566406px;
+  left: 19.83592414855957px;
+  width: 61px;
+  height: 20px;
+  position: absolute;
+}
+.landing-page-vector131 {
+  top: 137.3697052001953px;
+  left: 11.312067985534668px;
+  width: 40px;
+  height: 7px;
+  position: absolute;
+}
+.landing-page-vector132 {
+  top: 28.424955368041992px;
+  left: 37.32246017456055px;
+  width: 45px;
+  height: 45px;
+  position: absolute;
+}
+.landing-page-vector133 {
+  top: 27.15403175354004px;
+  left: 72.68762969970703px;
+  width: 12px;
+  height: 12px;
+  position: absolute;
+}
+.landing-page-vector134 {
+  top: 110.33014678955078px;
+  left: 17.35757064819336px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector135 {
+  top: 110.33004760742188px;
+  left: 29.270132064819336px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector136 {
+  top: 110.33004760742188px;
+  left: 41.17432403564453px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector137 {
+  top: 155.13690185546875px;
+  left: 15.35347843170166px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector138 {
+  top: 155.13690185546875px;
+  left: 27.265567779541016px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector139 {
+  top: 155.13682556152344px;
+  left: 39.196685791015625px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector140 {
+  top: 155.13690185546875px;
+  left: 51.082740783691406px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector141 {
+  top: 155.13690185546875px;
+  left: 63.03855514526367px;
+  width: 5px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector142 {
+  top: 43.62493896484375px;
+  left: 47.35858917236328px;
+  width: 19px;
+  height: 18px;
+  position: absolute;
+}
+.landing-page-vector143 {
+  top: 57.275634765625px;
+  left: 41.08021926879883px;
+  width: 37px;
+  height: 16px;
+  position: absolute;
+}
+.landing-page-vector144 {
+  top: 43.62493896484375px;
+  left: 47.35858917236328px;
+  width: 19px;
+  height: 18px;
+  opacity: 0.10;
+  position: absolute;
+}
+.landing-page-vector145 {
+  top: 57.275634765625px;
+  left: 41.08021926879883px;
+  width: 37px;
+  height: 16px;
+  opacity: 0.10;
+  position: absolute;
+}
+.landing-page-character1 {
+  top: 90.81532287597656px;
+  left: 96.04222869873047px;
+  width: 78.99906158447266px;
+  height: 230.69122314453125px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector146 {
+  top: 45.04434585571289px;
+  left: 4.742061138153076px;
+  width: 21px;
+  height: 47px;
+  position: absolute;
+}
+.landing-page-vector147 {
+  top: 84.78230285644531px;
+  left: 23.215801239013672px;
+  width: 8px;
+  height: 7px;
+  position: absolute;
+}
+.landing-page-vector148 {
+  top: 84.78230285644531px;
+  left: 29.485559463500977px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.landing-page-vector149 {
+  top: 15.15256404876709px;
+  left: 45.610347747802734px;
+  width: 1px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector150 {
+  top: 13.174491882324219px;
+  left: 44.78026580810547px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector151 {
+  top: 12.830097198486328px;
+  left: 45.248287200927734px;
+  width: 1px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector152 {
+  top: 21.63426399230957px;
+  left: 27.110124588012695px;
+  width: 14px;
+  height: 19px;
+  position: absolute;
+}
+.landing-page-vector153 {
+  top: 2.2504613399505615px;
+  left: 26.12535285949707px;
+  width: 20px;
+  height: 26px;
+  position: absolute;
+}
+.landing-page-vector154 {
+  top: 4.233020305633545px;
+  left: 19.568735122680664px;
+  width: 26px;
+  height: 27px;
+  position: absolute;
+}
+.landing-page-vector155 {
+  top: 13.918500900268555px;
+  left: 41.39812088012695px;
+  width: 3px;
+  height: 6px;
+  position: absolute;
+}
+.landing-page-vector156 {
+  top: 0.0000020123788999626413px;
+  left: 23.705047607421875px;
+  width: 24px;
+  height: 13px;
+  position: absolute;
+}
+.landing-page-vector157 {
+  top: 33.53184127807617px;
+  left: 24.665267944335938px;
+  width: 18px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector158 {
+  top: 33.53184127807617px;
+  left: 24.665267944335938px;
+  width: 18px;
+  height: 5px;
+  opacity: 0.60;
+  position: absolute;
+}
+.landing-page-vector159 {
+  top: 177.8485870361328px;
+  left: 33.55649185180664px;
+  width: 15px;
+  height: 17px;
+  position: absolute;
+}
+.landing-page-vector160 {
+  top: 176.84190368652344px;
+  left: 20.275190353393555px;
+  width: 14px;
+  height: 17px;
+  position: absolute;
+}
+.landing-page-vector161 {
+  top: 177.8485870361328px;
+  left: 38.166099548339844px;
+  width: 11px;
+  height: 11px;
+  position: absolute;
+}
+.landing-page-vector162 {
+  top: 176.84190368652344px;
+  left: 24.354949951171875px;
+  width: 10px;
+  height: 10px;
+  position: absolute;
+}
+.landing-page-vector163 {
+  top: 79.61636352539062px;
+  left: 16.1312255859375px;
+  width: 41px;
+  height: 106px;
+  position: absolute;
+}
+.landing-page-vector164 {
+  top: 79.61636352539062px;
+  left: 16.1312255859375px;
+  width: 41px;
+  height: 106px;
+  opacity: 0.60;
+  position: absolute;
+}
+.landing-page-vector165 {
+  top: 94.39887237548828px;
+  left: 46.034217834472656px;
+  width: 11px;
+  height: 50px;
+  opacity: 0.40;
+  position: absolute;
+}
+.landing-page-vector166 {
+  top: 79.61636352539062px;
+  left: 22.2885799407959px;
+  width: 54px;
+  height: 108px;
+  position: absolute;
+}
+.landing-page-vector167 {
+  top: 79.61636352539062px;
+  left: 22.2885799407959px;
+  width: 54px;
+  height: 108px;
+  opacity: 0.60;
+  position: absolute;
+}
+.landing-page-vector168 {
+  top: 37.46976852416992px;
+  left: 9.554773330688477px;
+  width: 14px;
+  height: 19px;
+  position: absolute;
+}
+.landing-page-vector169 {
+  top: 44.293731689453125px;
+  left: 16.575143814086914px;
+  width: 7px;
+  height: 12px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector170 {
+  top: 35.79064178466797px;
+  left: 15.162240028381348px;
+  width: 37px;
+  height: 44px;
+  position: absolute;
+}
+.landing-page-vector171 {
+  top: 41.44143295288086px;
+  left: 47.76502990722656px;
+  width: 23px;
+  height: 27px;
+  position: absolute;
+}
+.landing-page-vector172 {
+  top: 37.52976989746094px;
+  left: 43.3594970703125px;
+  width: 15px;
+  height: 20px;
+  position: absolute;
+}
+.landing-page-vector173 {
+  top: 35.33061981201172px;
+  left: 67.45175170898438px;
+  width: 8px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-vector174 {
+  top: 35.33061981201172px;
+  left: 72.59683227539062px;
+  width: 6px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector175 {
+  top: 178.61685180664062px;
+  left: 37.28303146362305px;
+  width: 13px;
+  height: 10px;
+  position: absolute;
+}
+.landing-page-vector176 {
+  top: 191.8184814453125px;
+  left: 27.63921546936035px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector177 {
+  top: 189.9287872314453px;
+  left: 27.66408920288086px;
+  width: 3px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector178 {
+  top: 194.9445037841797px;
+  left: 39.66396713256836px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector179 {
+  top: 193.38685607910156px;
+  left: 39.6384162902832px;
+  width: 4px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector180 {
+  top: 189.5522003173828px;
+  left: 17.287513732910156px;
+  width: 19px;
+  height: 12px;
+  position: absolute;
+}
+.landing-page-vector181 {
+  top: 189.6650390625px;
+  left: 28.2667236328125px;
+  width: 18px;
+  height: 17px;
+  position: absolute;
+}
+.landing-page-vector182 {
+  top: 177.1156463623047px;
+  left: 23.18931007385254px;
+  width: 14px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-vector183 {
+  top: 77.76838684082031px;
+  left: 18.733840942382812px;
+  width: 30px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector184 {
+  top: 77.76838684082031px;
+  left: 18.733840942382812px;
+  width: 30px;
+  height: 3px;
+  opacity: 0.40;
+  position: absolute;
+}
+.landing-page-vector185 {
+  top: 77.52349853515625px;
+  left: 23.30362892150879px;
+  width: 2px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector186 {
+  top: 77.52349853515625px;
+  left: 41.327003479003906px;
+  width: 2px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector187 {
+  top: 227.2649688720703px;
+  left: 0.0000025114318304986227px;
+  width: 47px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector188 {
+  top: 111.64514923095703px;
+  left: 8.376049995422363px;
+  width: 31px;
+  height: 117px;
+  position: absolute;
+}
+.landing-page-vector189 {
+  top: 102.84982299804688px;
+  left: 3.3909716606140137px;
+  width: 41px;
+  height: 18px;
+  position: absolute;
+}
+.landing-page-vector190 {
+  top: 121.34121704101562px;
+  left: 7.673839092254639px;
+  width: 32px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector191 {
+  top: 121.34121704101562px;
+  left: 7.673839092254639px;
+  width: 32px;
+  height: 4px;
+  opacity: 0.30;
+  position: absolute;
+}
+.landing-page-frame6 {
+  gap: 32px;
+  width: 661px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-frame5 {
+  gap: 16px;
+  width: 601px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-text028 {
+  color: var(--dl-color-neutral-dgrey);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 44px;
+}
+.landing-page-text030 {
+  color: var(--dl-color-neutral-grey);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-button1 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 32px;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: var(--dl-color-brand-primary);
+}
+.landing-page-text032 {
+  color: var(--dl-color-neutral-white);
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.landing-page-achievements {
+  gap: 30px;
+  width: 1440px;
+  display: flex;
+  padding: 64px 144px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-section-heading {
+  gap: 8px;
+  width: 540px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-section-heading1 {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text034 {
+  color: rgba(77, 77, 77, 1);
+  width: 408px;
+  height: auto;
+  text-align: left;
+  line-height: 44px;
+}
+.landing-page-text035 {
+  color: var(--dl-color-neutral-dgrey);
+}
+.landing-page-text037 {
+  color: var(--dl-color-text-gray900);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-counts {
+  gap: 40px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-row1 {
+  gap: 30px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.landing-page-frame2 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-icon06 {
+  width: 48px;
+  height: 48px;
+}
+.landing-page-details {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text039 {
+  color: var(--dl-color-neutral-dgrey);
+  width: 191px;
+  height: auto;
+  text-align: left;
+  line-height: 36px;
+}
+.landing-page-text041 {
+  color: var(--dl-color-neutral-grey);
+  width: 191px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-frame11 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-icon07 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-group21 {
+  top: 9.000030517578125px;
+  left: 7.968108177185059px;
+  width: 32.37238693237305px;
+  height: 30.00006103515625px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector192 {
+  top: 17.045429229736328px;
+  left: 9.20273208618164px;
+  width: 13px;
+  height: 17px;
+  position: absolute;
+}
+.landing-page-vector193 {
+  top: 30.00006103515625px;
+  left: 0px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.landing-page-vector194 {
+  top: 29.999610900878906px;
+  left: 17.029685974121094px;
+  width: 15px;
+  height: 13px;
+  position: absolute;
+}
+.landing-page-details1 {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text043 {
+  color: var(--dl-color-neutral-dgrey);
+  width: 191px;
+  height: auto;
+  text-align: left;
+  line-height: 36px;
+}
+.landing-page-text045 {
+  color: var(--dl-color-neutral-grey);
+  width: 191px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-row2 {
+  gap: 30px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+}
+.landing-page-frame33 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-icon08 {
+  width: 48px;
+  height: 48px;
+}
+.landing-page-details2 {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text047 {
+  color: var(--dl-color-neutral-dgrey);
+  width: 191px;
+  height: auto;
+  text-align: left;
+  line-height: 36px;
+}
+.landing-page-text049 {
+  color: var(--dl-color-neutral-grey);
+  width: 191px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-frame41 {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-icon09 {
+  width: 48px;
+  height: 48px;
+}
+.landing-page-details3 {
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text051 {
+  color: var(--dl-color-neutral-dgrey);
+  width: 191px;
+  height: auto;
+  text-align: left;
+  line-height: 36px;
+}
+.landing-page-text053 {
+  color: var(--dl-color-neutral-grey);
+  width: 191px;
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-calender {
+  display: flex;
+  align-items: flex-start;
+}
+.landing-page-unlock2 {
+  gap: 96px;
+  width: 1440px;
+  display: flex;
+  padding: 0 144px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.landing-page-mobileloginpana {
+  width: 442px;
+  height: 433.3990173339844px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-backgroundcomplete1 {
+  top: 0px;
+  left: 0px;
+  width: 441.5328674316406px;
+  height: 380.5754699707031px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector195 {
+  top: 193.58984375px;
+  left: 272.148193359375px;
+  width: 169px;
+  height: 98px;
+  position: absolute;
+}
+.landing-page-vector196 {
+  top: 245.8552703857422px;
+  left: 294.8341064453125px;
+  width: 112px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector197 {
+  top: 258.0715637207031px;
+  left: 294.8341064453125px;
+  width: 119px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector198 {
+  top: 270.4325256347656px;
+  left: 294.8341064453125px;
+  width: 119px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector199 {
+  top: 228.109619140625px;
+  left: 294.8341064453125px;
+  width: 39px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-vector200 {
+  top: 194.1066131591797px;
+  left: 272.6959533691406px;
+  width: 168px;
+  height: 16px;
+  position: absolute;
+}
+.landing-page-vector201 {
+  top: 196.42027282714844px;
+  left: 428.051025390625px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+}
+.landing-page-vector202 {
+  top: 196.41900634765625px;
+  left: 428.0716552734375px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+}
+.landing-page-vector203 {
+  top: 0px;
+  left: 64.78144073486328px;
+  width: 168px;
+  height: 97px;
+  position: absolute;
+}
+.landing-page-vector204 {
+  top: 51.759002685546875px;
+  left: 86.9299087524414px;
+  width: 112px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector205 {
+  top: 63.975284576416016px;
+  left: 86.9299087524414px;
+  width: 119px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector206 {
+  top: 76.33627319335938px;
+  left: 86.9299087524414px;
+  width: 119px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector207 {
+  top: 34.01335525512695px;
+  left: 86.9299087524414px;
+  width: 39px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-vector208 {
+  top: 0px;
+  left: 64.78144073486328px;
+  width: 168px;
+  height: 16px;
+  position: absolute;
+}
+.landing-page-vector209 {
+  top: 2.2504308223724365px;
+  left: 219.5680694580078px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+}
+.landing-page-vector210 {
+  top: 2.2503795623779297px;
+  left: 219.56800842285156px;
+  width: 10px;
+  height: 11px;
+  position: absolute;
+}
+.landing-page-vector211 {
+  top: 82.155029296875px;
+  left: 0px;
+  width: 169px;
+  height: 98px;
+  position: absolute;
+}
+.landing-page-vector212 {
+  top: 134.4307861328125px;
+  left: 22.66523551940918px;
+  width: 112px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector213 {
+  top: 146.64707946777344px;
+  left: 22.66523551940918px;
+  width: 119px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector214 {
+  top: 159.00804138183594px;
+  left: 22.66523551940918px;
+  width: 119px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector215 {
+  top: 116.68513488769531px;
+  left: 22.66523551940918px;
+  width: 39px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-vector216 {
+  top: 82.67179107666016px;
+  left: 0.5167632102966309px;
+  width: 168px;
+  height: 16px;
+  position: absolute;
+}
+.landing-page-vector217 {
+  top: 202.64352416992188px;
+  left: 166.05670166015625px;
+  width: 199px;
+  height: 178px;
+  position: absolute;
+}
+.landing-page-vector218 {
+  top: 146.59539794921875px;
+  left: 20.360471725463867px;
+  width: 156px;
+  height: 162px;
+  position: absolute;
+}
+.landing-page-vector219 {
+  top: 146.59539794921875px;
+  left: 20.360471725463867px;
+  width: 156px;
+  height: 18px;
+  position: absolute;
+}
+.landing-page-vector220 {
+  top: 151.81471252441406px;
+  left: 26.688861846923828px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.landing-page-vector221 {
+  top: 151.814697265625px;
+  left: 39.92788314819336px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.landing-page-vector222 {
+  top: 151.814697265625px;
+  left: 53.18803024291992px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+}
+.landing-page-vector223 {
+  top: 35.37760925292969px;
+  left: 220.55453491210938px;
+  width: 199px;
+  height: 198px;
+  position: absolute;
+}
+.landing-page-vector224 {
+  top: 35.37760925292969px;
+  left: 220.55453491210938px;
+  width: 199px;
+  height: 23px;
+  position: absolute;
+}
+.landing-page-vector225 {
+  top: 42.25056457519531px;
+  left: 228.86810302734375px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-vector226 {
+  top: 42.352638244628906px;
+  left: 246.19888305664062px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-vector227 {
+  top: 42.25056457519531px;
+  left: 263.7806396484375px;
+  width: 9px;
+  height: 9px;
+  position: absolute;
+}
+.landing-page-backgroundsimple1 {
+  top: 87.68412017822266px;
+  left: 48.0899772644043px;
+  width: 320.28778076171875px;
+  height: 298.4375305175781px;
+  display: flex;
+  opacity: 0.00;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector228 {
+  top: 0px;
+  left: 0px;
+  width: 320px;
+  height: 298px;
+  position: absolute;
+}
+.landing-page-floor {
+  top: 432.8615417480469px;
+  left: 55.80009078979492px;
+  width: 320.5688781738281px;
+  height: 0.5374539494514465px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector229 {
+  top: 0px;
+  left: 0px;
+  width: 321px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-plant {
+  top: 196.49795532226562px;
+  left: 287.4185485839844px;
+  width: 85.87194061279297px;
+  height: 147.78004455566406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector230 {
+  top: 0px;
+  left: 0px;
+  width: 86px;
+  height: 112px;
+  position: absolute;
+}
+.landing-page-vector231 {
+  top: 2.5695786476135254px;
+  left: 18.300241470336914px;
+  width: 63px;
+  height: 145px;
+  position: absolute;
+}
+.landing-page-vector232 {
+  top: 19.57108497619629px;
+  left: 37.06744384765625px;
+  width: 5px;
+  height: 34px;
+  position: absolute;
+}
+.landing-page-vector233 {
+  top: 46.07307052612305px;
+  left: 41.71831512451172px;
+  width: 40px;
+  height: 7px;
+  position: absolute;
+}
+.landing-page-vector234 {
+  top: 46.96986770629883px;
+  left: 4.31498908996582px;
+  width: 20px;
+  height: 51px;
+  position: absolute;
+}
+.landing-page-vector235 {
+  top: 80.69384002685547px;
+  left: 24.303386688232422px;
+  width: 53px;
+  height: 17px;
+  position: absolute;
+}
+.landing-page-padlock {
+  top: 4.826022624969482px;
+  left: 282.40338134765625px;
+  width: 86.09164428710938px;
+  height: 102.97117614746094px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector236 {
+  top: 0px;
+  left: 0px;
+  width: 86px;
+  height: 103px;
+  position: absolute;
+}
+.landing-page-vector237 {
+  top: 23.437253952026367px;
+  left: 10.528829574584961px;
+  width: 44px;
+  height: 16px;
+  position: absolute;
+}
+.landing-page-vector238 {
+  top: 25.34261703491211px;
+  left: 25.980253219604492px;
+  width: 56px;
+  height: 74px;
+  position: absolute;
+}
+.landing-page-vector239 {
+  top: 9.099892616271973px;
+  left: 15.623698234558105px;
+  width: 22px;
+  height: 28px;
+  position: absolute;
+}
+.landing-page-vector240 {
+  top: 50.237525939941406px;
+  left: 31.920223236083984px;
+  width: 22px;
+  height: 34px;
+  position: absolute;
+}
+.landing-page-device {
+  top: 50.51848220825195px;
+  left: 162.9559326171875px;
+  width: 156.31072998046875px;
+  height: 344.9098205566406px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector241 {
+  top: 0px;
+  left: 0px;
+  width: 149px;
+  height: 304px;
+  position: absolute;
+}
+.landing-page-vector242 {
+  top: 9.022706031799316px;
+  left: 6.872971534729004px;
+  width: 136px;
+  height: 284px;
+  position: absolute;
+}
+.landing-page-vector243 {
+  top: 235.60299682617188px;
+  left: 34.871246337890625px;
+  width: 80px;
+  height: 24px;
+  position: absolute;
+}
+.landing-page-text055 {
+  top: 241.55715942382812px;
+  left: 57.092193603515625px;
+  color: rgba(232, 232, 227, 1);
+  width: 99px;
+  height: auto;
+  position: absolute;
+  font-size: 8.13128662109375px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.landing-page-vector244 {
+  top: 83.5128402709961px;
+  left: 24.995372772216797px;
+  width: 27px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector245 {
+  top: 83.5128402709961px;
+  left: 24.995372772216797px;
+  width: 27px;
+  height: 5px;
+  opacity: 0.10;
+  position: absolute;
+}
+.landing-page-vector246 {
+  top: 95.37397766113281px;
+  left: 24.635019302368164px;
+  width: 107px;
+  height: 18px;
+  position: absolute;
+}
+.landing-page-vector247 {
+  top: 101.20319366455078px;
+  left: 32.98003387451172px;
+  width: 49px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector248 {
+  top: 101.20319366455078px;
+  left: 32.98003387451172px;
+  width: 49px;
+  height: 5px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector249 {
+  top: 128.0151824951172px;
+  left: 24.81410789489746px;
+  width: 27px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector250 {
+  top: 128.0151824951172px;
+  left: 24.81410789489746px;
+  width: 27px;
+  height: 5px;
+  opacity: 0.10;
+  position: absolute;
+}
+.landing-page-vector251 {
+  top: 139.991455078125px;
+  left: 24.395784378051758px;
+  width: 107px;
+  height: 18px;
+  position: absolute;
+}
+.landing-page-vector252 {
+  top: 174.4501495361328px;
+  left: 24.61377716064453px;
+  width: 27px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector253 {
+  top: 174.4501495361328px;
+  left: 24.61377716064453px;
+  width: 27px;
+  height: 5px;
+  opacity: 0.10;
+  position: absolute;
+}
+.landing-page-vector254 {
+  top: 186.27276611328125px;
+  left: 24.282094955444336px;
+  width: 107px;
+  height: 18px;
+  position: absolute;
+}
+.landing-page-vector255 {
+  top: 146.7748565673828px;
+  left: 31.942689895629883px;
+  width: 49px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector256 {
+  top: 146.7748565673828px;
+  left: 31.942689895629883px;
+  width: 49px;
+  height: 5px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-vector257 {
+  top: 193.78573608398438px;
+  left: 32.08656311035156px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector258 {
+  top: 193.82427978515625px;
+  left: 38.669586181640625px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector259 {
+  top: 193.84774780273438px;
+  left: 45.2640266418457px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector260 {
+  top: 193.87875366210938px;
+  left: 51.84758377075195px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector261 {
+  top: 193.90975952148438px;
+  left: 58.430419921875px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector262 {
+  top: 193.94151306152344px;
+  left: 65.02427673339844px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector263 {
+  top: 193.968994140625px;
+  left: 71.60808563232422px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector264 {
+  top: 194.00355529785156px;
+  left: 78.19139099121094px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector265 {
+  top: 194.0338134765625px;
+  left: 84.77501678466797px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-group {
+  top: 193.78573608398438px;
+  left: 32.08656311035156px;
+  width: 56.94293212890625px;
+  height: 4.737858295440674px;
+  display: flex;
+  opacity: 0.20;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector266 {
+  top: 0px;
+  left: 0px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector267 {
+  top: 0.038547493517398834px;
+  left: 6.5830230712890625px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector268 {
+  top: 0.06201379373669624px;
+  left: 13.17746353149414px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector269 {
+  top: 0.09301832318305969px;
+  left: 19.761022567749023px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector270 {
+  top: 0.12402285635471344px;
+  left: 26.343854904174805px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector271 {
+  top: 0.15578436851501465px;
+  left: 32.93770980834961px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector272 {
+  top: 0.1832563430070877px;
+  left: 39.521522521972656px;
+  width: 4px;
+  height: 5px;
+  position: absolute;
+}
+.landing-page-vector273 {
+  top: 0.21782498061656952px;
+  left: 46.104827880859375px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector274 {
+  top: 0.2480725347995758px;
+  left: 52.68844985961914px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector275 {
+  top: 39.43891906738281px;
+  left: 71.41515350341797px;
+  width: 14px;
+  height: 15px;
+  position: absolute;
+}
+.landing-page-vector276 {
+  top: 39.43891906738281px;
+  left: 71.41515350341797px;
+  width: 14px;
+  height: 15px;
+  opacity: 0.10;
+  position: absolute;
+}
+.landing-page-vector277 {
+  top: 58.19538116455078px;
+  left: 53.13895797729492px;
+  width: 49px;
+  height: 6px;
+  position: absolute;
+}
+.landing-page-vector278 {
+  top: 58.19538116455078px;
+  left: 53.13895797729492px;
+  width: 49px;
+  height: 6px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-speechbubble {
+  top: 139.1436004638672px;
+  left: 58.97807312011719px;
+  width: 53.297523498535156px;
+  height: 60.52339553833008px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector279 {
+  top: 0px;
+  left: 0px;
+  width: 53px;
+  height: 61px;
+  position: absolute;
+}
+.landing-page-vector280 {
+  top: 14.478874206542969px;
+  left: 16.413358688354492px;
+  width: 16px;
+  height: 23px;
+  position: absolute;
+}
+.landing-page-vector281 {
+  top: 23.078704833984375px;
+  left: 33.50188064575195px;
+  width: 4px;
+  height: 13px;
+  position: absolute;
+}
+.landing-page-character {
+  top: 145.28768920898438px;
+  left: 85.55532836914062px;
+  width: 148.00030517578125px;
+  height: 287.7176513671875px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector282 {
+  top: 273.941650390625px;
+  left: 34.34408187866211px;
+  width: 27px;
+  height: 14px;
+  position: absolute;
+}
+.landing-page-vector283 {
+  top: 286.06488037109375px;
+  left: 34.39575958251953px;
+  width: 26px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector284 {
+  top: 283.0417785644531px;
+  left: 50.54969024658203px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector285 {
+  top: 283.34442138671875px;
+  left: 51.542701721191406px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector286 {
+  top: 283.1909484863281px;
+  left: 34.60026931762695px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector287 {
+  top: 282.9836730957031px;
+  left: 49.12256622314453px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector288 {
+  top: 281.91986083984375px;
+  left: 48.50320053100586px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector289 {
+  top: 273.941650390625px;
+  left: 73.35970306396484px;
+  width: 27px;
+  height: 14px;
+  position: absolute;
+}
+.landing-page-vector290 {
+  top: 286.0855712890625px;
+  left: 73.42171478271484px;
+  width: 26px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector291 {
+  top: 283.0417785644531px;
+  left: 89.5697250366211px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector292 {
+  top: 283.34442138671875px;
+  left: 90.56327819824219px;
+  width: 1px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector293 {
+  top: 283.1909484863281px;
+  left: 73.61589050292969px;
+  width: 5px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector294 {
+  top: 282.9836730957031px;
+  left: 88.13819122314453px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector295 {
+  top: 281.91986083984375px;
+  left: 87.5498275756836px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector296 {
+  top: 6.5476884841918945px;
+  left: -2.734469717324828e-7px;
+  width: 148px;
+  height: 155px;
+  position: absolute;
+}
+.landing-page-vector297 {
+  top: 38.814369201660156px;
+  left: 15.926630973815918px;
+  width: 90px;
+  height: 72px;
+  position: absolute;
+}
+.landing-page-vector298 {
+  top: 88.72337341308594px;
+  left: 40.65892791748047px;
+  width: 16px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector299 {
+  top: 86.47029113769531px;
+  left: 42.37458419799805px;
+  width: 18px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector300 {
+  top: 69.08637237548828px;
+  left: 71.737060546875px;
+  width: 4px;
+  height: 16px;
+  position: absolute;
+}
+.landing-page-vector301 {
+  top: 88.39263916015625px;
+  left: 16.40205955505371px;
+  width: 14px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector302 {
+  top: 39.899356842041016px;
+  left: 65.89989471435547px;
+  width: 13px;
+  height: 21px;
+  position: absolute;
+}
+.landing-page-vector303 {
+  top: 42.31803894042969px;
+  left: 102.46805572509766px;
+  width: 1px;
+  height: 19px;
+  position: absolute;
+}
+.landing-page-vector304 {
+  top: 3.7674994468688965px;
+  left: 49.433555603027344px;
+  width: 22px;
+  height: 39px;
+  position: absolute;
+}
+.landing-page-vector305 {
+  top: 20.519235610961914px;
+  left: 63.51182174682617px;
+  width: 2px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector306 {
+  top: -0.00000846968305268092px;
+  left: 22.409841537475586px;
+  width: 53px;
+  height: 82px;
+  position: absolute;
+}
+.landing-page-vector307 {
+  top: 24.158971786499023px;
+  left: 64.52063751220703px;
+  width: 4px;
+  height: 4px;
+  position: absolute;
+}
+.landing-page-vector308 {
+  top: 109.75564575195312px;
+  left: 28.679792404174805px;
+  width: 68px;
+  height: 171px;
+  position: absolute;
+}
+.landing-page-vector309 {
+  top: 133.3834686279297px;
+  left: 45.165103912353516px;
+  width: 15px;
+  height: 3px;
+  position: absolute;
+}
+.landing-page-vector310 {
+  top: 271.7712097167969px;
+  left: 68.23340606689453px;
+  width: 25px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector311 {
+  top: 276.36004638671875px;
+  left: 32.721435546875px;
+  width: 24px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector312 {
+  top: 134.6429443359375px;
+  left: 50.998416900634766px;
+  width: 2px;
+  height: 142px;
+  position: absolute;
+}
+.landing-page-vector313 {
+  top: 111.15090942382812px;
+  left: 72.97730255126953px;
+  width: 20px;
+  height: 161px;
+  position: absolute;
+}
+.landing-page-vector314 {
+  top: 187.97291564941406px;
+  left: 70.58984375px;
+  width: 11px;
+  height: 2px;
+  position: absolute;
+}
+.landing-page-vector315 {
+  top: 190.0936279296875px;
+  left: 71.54068756103516px;
+  width: 10px;
+  height: 1px;
+  position: absolute;
+}
+.landing-page-vector316 {
+  top: 109.75564575195312px;
+  left: 30.69573211669922px;
+  width: 46px;
+  height: 6px;
+  opacity: 0.20;
+  position: absolute;
+}
+.landing-page-group1 {
+  top: 133.9298095703125px;
+  left: 46.146949768066406px;
+  width: 8.454238891601562px;
+  height: 32.80415344238281px;
+  display: flex;
+  opacity: 0.20;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector317 {
+  top: 0px;
+  left: 0px;
+  width: 8px;
+  height: 33px;
+  position: absolute;
+}
+.landing-page-frame61 {
+  gap: 32px;
+  width: 661px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-frame51 {
+  gap: 16px;
+  width: 601px;
+  display: flex;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-text057 {
+  color: var(--dl-color-neutral-dgrey);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 44px;
+}
+.landing-page-text059 {
+  color: var(--dl-color-neutral-grey);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-button2 {
+  gap: 10px;
+  display: flex;
+  padding: 14px 32px;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: var(--dl-color-brand-primary);
+}
+.landing-page-text061 {
+  color: var(--dl-color-neutral-white);
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.landing-page-customers {
+  gap: 78px;
+  width: 1440px;
+  display: flex;
+  padding: 32px 144px;
+  align-items: center;
+  flex-shrink: 0;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-image9 {
+  width: 326px;
+  height: 326px;
+  border-radius: 8px;
+}
+.landing-page-frame11 {
+  gap: 32px;
+  width: 748px;
+  display: flex;
+  flex-grow: 1;
+  align-items: flex-start;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-content {
+  gap: 16px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text063 {
+  color: var(--dl-color-neutral-grey);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-frame7 {
+  gap: 8px;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text065 {
+  color: var(--dl-color-brand-primary);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 28px;
+}
+.landing-page-text067 {
+  color: var(--dl-color-neutral-lgrey);
+  height: auto;
+  align-self: stretch;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-frame14 {
+  gap: 32px;
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+}
+.landing-page-frame10 {
+  gap: 41px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-logo14 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-tint-t5);
+}
+.landing-page-logo15 {
+  top: 0.19451904296875px;
+  left: 0.35333251953125px;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+}
+.landing-page-logo16 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-logo17 {
+  top: 9.8468017578125px;
+  left: 0.1123046875px;
+  width: 40px;
+  height: 28px;
+  position: absolute;
+}
+.landing-page-logo18 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-logo19 {
+  top: 8.8468017578125px;
+  left: 0px;
+  width: 55px;
+  height: 30px;
+  position: absolute;
+}
+.landing-page-logo20 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-logo21 {
+  top: 9.8468017578125px;
+  left: 0px;
+  width: 47px;
+  height: 29px;
+  position: absolute;
+}
+.landing-page-logo22 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-logo23 {
+  top: 10.8468017578125px;
+  left: 0px;
+  width: 41px;
+  height: 27px;
+  position: absolute;
+}
+.landing-page-logo24 {
+  width: 48px;
+  height: 48px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 8px;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-logo25 {
+  top: 13.8468017578125px;
+  left: 0px;
+  width: 52px;
+  height: 20px;
+  position: absolute;
+}
+.landing-page-frame13 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  flex-grow: 1;
+  align-items: center;
+}
+.landing-page-text069 {
+  color: var(--dl-color-brand-primary);
+  width: 188px;
+  height: auto;
+  text-align: left;
+  line-height: 28px;
+}
+.landing-page-frame24-arrows-directions-right {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-right {
+  top: 8.00001335144043px;
+  left: 4.414221286773682px;
+  width: 14.585790634155273px;
+  height: 8.000000953674316px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector318 {
+  top: 0px;
+  left: 14.585789680480957px;
+  width: 15px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-community-updates {
+  gap: 16px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-community2 {
+  gap: 8px;
+  width: 1110px;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+}
+.landing-page-text071 {
+  color: var(--dl-color-neutral-dgrey);
+  height: auto;
+  align-self: stretch;
+  text-align: center;
+  line-height: 44px;
+}
+.landing-page-text073 {
+  color: var(--dl-color-neutral-grey);
+  width: 628px;
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.landing-page-frame15 {
+  gap: 17px;
+  width: 1440px;
+  display: flex;
+  padding: 0 144px;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: space-between;
+}
+.landing-page-frame12 {
+  gap: -96px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-image18 {
+  width: 368px;
+  height: 286px;
+  border-radius: 8px;
+}
+.landing-page-content1 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  box-shadow: 0px 8px 16px 0px rgba(171, 190, 209, 0.4000000059604645) ;
+  align-items: center;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-text075 {
+  color: var(--dl-color-neutral-grey);
+  width: 285px;
+  height: auto;
+  text-align: center;
+  line-height: 28px;
+}
+.landing-page-frame131 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.landing-page-text077 {
+  color: var(--dl-color-brand-primary);
+  height: auto;
+  text-align: left;
+  line-height: 28px;
+}
+.landing-page-frame24-arrows-directions-right1 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-right1 {
+  top: 8.00001335144043px;
+  left: 4.414221286773682px;
+  width: 14.585790634155273px;
+  height: 8.000000953674316px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector319 {
+  top: 0px;
+  left: 14.585789680480957px;
+  width: 15px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-frame21 {
+  gap: -96px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-image19 {
+  width: 368px;
+  height: 286px;
+  border-radius: 8px;
+}
+.landing-page-content2 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  box-shadow: 0px 8px 16px 0px rgba(171, 190, 209, 0.4000000059604645) ;
+  align-items: center;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-text079 {
+  color: var(--dl-color-neutral-grey);
+  width: 285px;
+  height: auto;
+  text-align: center;
+  line-height: 28px;
+}
+.landing-page-frame132 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.landing-page-text081 {
+  color: var(--dl-color-brand-primary);
+  height: auto;
+  text-align: left;
+  line-height: 28px;
+}
+.landing-page-frame24-arrows-directions-right2 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-right2 {
+  top: 8.00001335144043px;
+  left: 4.414221286773682px;
+  width: 14.585790634155273px;
+  height: 8.000000953674316px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector320 {
+  top: 0px;
+  left: 14.585789680480957px;
+  width: 15px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-frame34 {
+  gap: -96px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-image20 {
+  width: 368px;
+  height: 286px;
+  border-radius: 8px;
+}
+.landing-page-content3 {
+  gap: 16px;
+  display: flex;
+  padding: 16px;
+  box-shadow: 0px 8px 16px 0px rgba(171, 190, 209, 0.4000000059604645) ;
+  align-items: center;
+  border-radius: 8px;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-text083 {
+  color: var(--dl-color-neutral-grey);
+  width: 285px;
+  height: auto;
+  text-align: center;
+  line-height: 28px;
+}
+.landing-page-frame133 {
+  gap: 8px;
+  display: flex;
+  padding: 8px;
+  align-self: stretch;
+  align-items: center;
+  flex-shrink: 0;
+  justify-content: center;
+}
+.landing-page-text085 {
+  color: var(--dl-color-brand-primary);
+  height: auto;
+  text-align: left;
+  line-height: 28px;
+}
+.landing-page-frame24-arrows-directions-right3 {
+  width: 24px;
+  height: 24px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-right3 {
+  top: 8.00001335144043px;
+  left: 4.414221286773682px;
+  width: 14.585790634155273px;
+  height: 8.000000953674316px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector321 {
+  top: 0px;
+  left: 14.585789680480957px;
+  width: 15px;
+  height: 8px;
+  position: absolute;
+}
+.landing-page-dot {
+  gap: 8px;
+  top: 657px;
+  left: 697px;
+  width: 46px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+}
+.landing-page-ellipse5 {
+  width: 10px;
+  height: 10px;
+}
+.landing-page-ellipse6 {
+  width: 10px;
+  height: 10px;
+  opacity: 0.30;
+}
+.landing-page-ellipse7 {
+  width: 10px;
+  height: 10px;
+  opacity: 0.30;
+}
+.landing-page-footer {
+  top: 3748px;
+  left: 0px;
+  width: 1440px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-frame16 {
+  gap: 32px;
+  width: 1440px;
+  display: flex;
+  padding: 32px 0;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-text087 {
+  color: var(--dl-color-neutral-black);
+  width: 887px;
+  height: auto;
+  text-align: center;
+  line-height: 76px;
+}
+.landing-page-button3 {
+  gap: 8px;
+  display: flex;
+  padding: 14px 32px;
+  align-items: center;
+  border-radius: 4px;
+  justify-content: center;
+  background-color: var(--dl-color-brand-primary);
+}
+.landing-page-text089 {
+  color: var(--dl-color-neutral-white);
+  height: auto;
+  text-align: center;
+  line-height: 24px;
+}
+.landing-page-frame16-arrows-directions-right {
+  width: 16px;
+  height: 16px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.landing-page-down {
+  top: 5px;
+  left: 2.06036376953125px;
+  width: 11.43962574005127px;
+  height: 6.000155448913574px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-vector322 {
+  top: 6.000155448913574px;
+  left: 11.43962574005127px;
+  width: 6px;
+  height: 11px;
+  position: absolute;
+}
+.landing-page-footer-big4 {
+  gap: 125px;
+  display: flex;
+  padding: 64px 165px;
+  align-items: flex-start;
+  background-color: var(--dl-color-neutral-black);
+}
+.landing-page-company-info {
+  gap: 40px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-logo26 {
+  width: 191px;
+  height: 30px;
+}
+.landing-page-copyright {
+  gap: 8px;
+  display: flex;
+  overflow: hidden;
+  align-items: center;
+  flex-direction: column;
+}
+.landing-page-text091 {
+  color: var(--dl-color-neutral-silver);
+  width: 350px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-text093 {
+  color: var(--dl-color-neutral-silver);
+  width: 350px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-social-links {
+  gap: 16px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+}
+.landing-page-social-icons {
+  width: 32px;
+  height: 32px;
+}
+.landing-page-social-icons1 {
+  width: 32px;
+  height: 32px;
+}
+.landing-page-social-icons2 {
+  width: 32px;
+  height: 32px;
+}
+.landing-page-social-icons3 {
+  width: 32px;
+  height: 32px;
+}
+.landing-page-links {
+  gap: 30px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+}
+.landing-page-col1 {
+  gap: 24px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text095 {
+  color: var(--dl-color-neutral-white);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 28px;
+}
+.landing-page-list-items {
+  gap: 12px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text097 {
+  color: var(--dl-color-neutral-silver);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-text099 {
+  color: var(--dl-color-neutral-silver);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-text101 {
+  color: var(--dl-color-neutral-silver);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-text103 {
+  color: var(--dl-color-neutral-silver);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-text105 {
+  color: var(--dl-color-neutral-silver);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-col2 {
+  gap: 24px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text107 {
+  color: var(--dl-color-neutral-white);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 28px;
+}
+.landing-page-list-items1 {
+  gap: 12px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text109 {
+  color: var(--dl-color-neutral-silver);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-text111 {
+  color: var(--dl-color-neutral-silver);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-text113 {
+  color: var(--dl-color-neutral-silver);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-text115 {
+  color: var(--dl-color-neutral-silver);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-text117 {
+  color: var(--dl-color-neutral-silver);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-col3 {
+  gap: 24px;
+  display: flex;
+  overflow: hidden;
+  align-items: flex-start;
+  flex-direction: column;
+}
+.landing-page-text119 {
+  color: var(--dl-color-neutral-white);
+  width: 160px;
+  height: auto;
+  text-align: left;
+  line-height: 28px;
+}
+.landing-page-email-input-field {
+  width: 255px;
+  height: 40px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 1);
+}
+.landing-page-essential-iconssend {
+  top: 11px;
+  left: 225px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.landing-page-text121 {
+  top: 9px;
+  left: 12px;
+  color: var(--dl-color-text-gray300);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  line-height: 20px;
+}
+.landing-page-frame36 {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 84px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-group2228 {
+  top: 30px;
+  left: 425.5px;
+  width: 588px;
+  height: 24px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.landing-page-heading-name {
+  gap: 50px;
+  top: 0px;
+  left: 0px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+}
+.landing-page-headermenu-default {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-text123 {
+  color: var(--dl-color-text-gray900);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-menu-item-default {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-text125 {
+  color: var(--dl-color-text-gray900);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-menu-item-default1 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-text127 {
+  color: var(--dl-color-text-gray900);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-menu-item-default2 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-text129 {
+  color: var(--dl-color-text-gray900);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-menu-item-default3 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-text131 {
+  color: var(--dl-color-text-gray900);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-menu-item-default4 {
+  gap: 10px;
+  display: flex;
+  align-items: center;
+}
+.landing-page-text133 {
+  color: var(--dl-color-text-gray900);
+  height: auto;
+  text-align: left;
+  line-height: 24px;
+}
+.landing-page-logo27 {
+  top: 30px;
+  left: 105px;
+  width: 154px;
+  height: 24px;
+  position: absolute;
+}
+.landing-page-login {
+  gap: 14px;
+  top: 22px;
+  left: 1138px;
+  width: 182px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+}
+.landing-page-button4 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 20px;
+  align-items: center;
+  border-radius: 6px;
+  background-color: var(--dl-color-neutral-silver);
+}
+.landing-page-text135 {
+  color: var(--dl-color-brand-primary);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
+.landing-page-button5 {
+  gap: 10px;
+  display: flex;
+  padding: 10px 20px;
+  align-items: center;
+  border-radius: 6px;
+  background-color: var(--dl-color-brand-primary);
+}
+.landing-page-text137 {
+  color: var(--dl-color-default-white);
+  height: auto;
+  text-align: center;
+  line-height: 20px;
+}
